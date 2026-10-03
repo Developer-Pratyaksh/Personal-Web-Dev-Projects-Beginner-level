@@ -1,2 +1,0 @@
-Deployed Website Link:
-https://happy-car-showroom-web-dev-mini-proj.netlify.app/
